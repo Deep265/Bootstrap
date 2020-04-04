@@ -1,0 +1,33 @@
+
+.height{
+ min-height: 100vh;
+}
+
+.line{
+	height: 10px;
+	width: 100px;
+	margin: 0 auto;
+}
+.center{
+	margin: 0 auto;
+}
+
+.image{
+	  
+	background: url(../images/about-bcg.jpeg)center/cover no-repeat fixed;
+	/*
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+	*/
+	
+	
+}
+
+#filler,#progress{
+ background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) , url(../images/projects-1.jpeg)center/cover no-repeat fixed;
+
+}
+
+	
